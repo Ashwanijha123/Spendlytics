@@ -1,0 +1,21 @@
+UserID,Date,Amount,Category,Description
+103,2024-01-01,4385.66,Food,Purchase
+104,2024-01-08,8216.54,Transport,Purchase
+102,2024-01-15,8635.16,Food,Purchase
+102,2024-01-22,268.13,Rent,Subscription
+105,2024-01-29,5205.32,Rent,Subscription
+101,2024-02-05,4290.63,Shopping,One-time
+105,2024-02-12,2376.66,Utilities,One-time
+104,2024-02-19,1374.68,Food,Monthly bill
+104,2024-02-26,3508.63,Food,Monthly bill
+104,2024-03-04,9440.52,Transport,One-time
+104,2024-03-11,3367.39,Rent,Subscription
+104,2024-03-18,5284.15,Utilities,Purchase
+103,2024-03-25,7089.59,Shopping,One-time
+102,2024-04-01,3763.57,Rent,Monthly bill
+104,2024-04-08,9723.46,Shopping,Subscription
+101,2024-04-15,9631.98,Transport,One-time
+101,2024-04-22,2667.47,Transport,One-time
+101,2024-04-29,5073.04,Food,Subscription
+101,2024-05-06,3148.61,Utilities,One-time
+103,2024-05-13,2991.44,Shopping,Subscription
