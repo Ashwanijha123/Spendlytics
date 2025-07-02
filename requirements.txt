@@ -1,0 +1,9 @@
+📊 Data processing (Pandas, NumPy)
+
+🔍 Machine learning (Scikit-learn)
+
+📈 Visualization (Matplotlib, Seaborn)
+
+🗃️ SQL operations (via SQLite)
+
+💡 Clustering (KMeans)
